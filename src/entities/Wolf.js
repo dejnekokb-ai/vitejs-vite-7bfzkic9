@@ -9,7 +9,7 @@ export function createWolf(position: { x?: number; y?: number } = {}) {
 
     health: 100,
     stamina: 100,
-
+// test
     energy: 100,
     hydration: 100,
 
