@@ -123,7 +123,6 @@ export default function App() {
         updatedWaters.push({ x: Math.floor(Math.random() * 20), y: Math.floor(Math.random() * 20) });
       }
 
-      return {
       if (Math.random() < 0.12 && updatedWoods.length < 4) {
         updatedWoods.push({ x: Math.floor(Math.random() * 20), y: Math.floor(Math.random() * 20) });
       }
